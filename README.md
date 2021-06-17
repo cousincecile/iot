@@ -7,6 +7,9 @@ Used components:
 - Pressure sensor
 - Ecran LCD
 
+Mobile App
+
+![alt text](https://github.com/cousincecile/iot/blob/main/app_mobile.PNG)
 
 Final Product Schema
 
