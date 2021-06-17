@@ -3,9 +3,14 @@ Projet IOT et Big Data
 
 Used components:
 
-- Arduino + wifi
+- Arduino 
+- Module Wifi ESP8266
+- Potentiometre
+- Résistances
+- Platine DC
 - Pressure sensor
-- Ecran LCD
+- Ecran lcd
+
 
 Mobile App
 
