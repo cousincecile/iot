@@ -1,6 +1,8 @@
 # Smart'agere
 Projet IOT et Big Data
 
+Simulation Link: https://www.tinkercad.com/things/0COmTxxfNDl-smartagere/editel?sharecode=bRmihURg_9s7-44qHAtRLixRJ0ExjKYfBRx5QPdqAVI
+
 Used components:
 
 - Arduino 
