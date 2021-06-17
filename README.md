@@ -1,9 +1,12 @@
-# iot
+# Smart'agere
 Projet IOT et Big Data
 
-Composants techniques utilisés:
+Used components:
 
 - Arduino + wifi
 - Pressure sensor
 - Ecran LCD
+
+
+Weight Detection:
 
