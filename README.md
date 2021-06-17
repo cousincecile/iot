@@ -35,3 +35,6 @@ Scenario Schema
 
 ![alt text](https://github.com/cousincecile/iot/blob/main/schema-senario.PNG)
 
+Drive:https://docs.google.com/document/d/1slEU_CKD80JeCK_4fxa7Anhr5r3Ve13Ko4gcvQBSbyQ/edit
+Présentation: https://docs.google.com/presentation/d/13SFWyx2ZXhg07TGUAHOqmiNF75mqoxm3f_S4xUaIqLc/edit#slide=id.p
+Excel Scénario: https://docs.google.com/spreadsheets/d/1T0nv0j5fYEnjKSE3fMr0s0k-7YqAmug7FF4RLs8a-hk/edit#gid=0
