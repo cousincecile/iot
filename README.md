@@ -15,3 +15,7 @@ Final Product Schema
 Weight Detection:
 
 ![alt text](https://github.com/cousincecile/iot/blob/main/schema-detection-poids.PNG)
+
+General Architecture
+![alt text](https://github.com/cousincecile/iot/blob/main/schema_fonct.PNG)
+
