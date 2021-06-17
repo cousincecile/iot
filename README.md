@@ -9,7 +9,9 @@ Used components:
 
 
 Final Product Schema
+
 ![alt text](https://github.com/cousincecile/iot/blob/main/schema_etagere.PNG)
 
 Weight Detection:
 
+![alt text](https://github.com/cousincecile/iot/blob/main/schema-detection-poids.PNG)
